@@ -1,0 +1,10 @@
+body { margin:0; font-family:Arial, sans-serif; background:#121212; color:#eee; }
+header{background:#1f1f1f;padding:12px;text-align:center}
+#app{display:flex}
+#left{width:340px;padding:12px;border-right:1px solid #333}
+#playerArea{flex:1;padding:12px}
+.section{margin-bottom:18px}
+#searchResults .result{padding:8px;border-bottom:1px solid #222;cursor:pointer}
+#queue li{padding:6px;border-bottom:1px solid #222}
+button{background:#2b7cff;color:#fff;border:none;padding:8px 12px;border-radius:6px}
+input{padding:8px;width:80%;}
